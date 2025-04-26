@@ -1,5 +1,6 @@
 # MINI PROJECT_02
 """GENERATE RANDOM PASSWORD"""
+import random as rd
 import string as str
 
 char_Val = str.ascii_letters + str.digits + str.punctuation
